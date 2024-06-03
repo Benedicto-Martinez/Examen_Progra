@@ -1,0 +1,7 @@
+C:\examen\obj\Debug\FinalExamen.csproj.AssemblyReference.cache
+C:\examen\obj\Debug\FinalExame.Form1.resources
+C:\examen\obj\Debug\LaboratorioFinalDB.Properties.Resources.resources
+C:\examen\obj\Debug\FinalExamen.csproj.GenerateResource.cache
+C:\examen\obj\Debug\FinalExamen.csproj.CoreCompileInputs.cache
+C:\examen\obj\Debug\LaboratorioFinalDB.exe
+C:\examen\obj\Debug\LaboratorioFinalDB.pdb
